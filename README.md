@@ -13,4 +13,3 @@
   1. User id - unique
   2. Event - corresponding to the action done by the user
   3. Timestamp - of event occurrence
- 
